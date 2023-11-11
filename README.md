@@ -1,9 +1,23 @@
-# React + Vite
+## Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Online Examination System Client
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# online-examination-system-client
+```bash
+$ npm install
+```
+
+## Running the app
+
+```bash
+# development
+$ npm run dev
+```
+
+## Important URL
+
+```bash
+# Local
+$ http://127.0.0.1:5173
+```
